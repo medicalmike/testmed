@@ -12,4 +12,8 @@ int main(void){
  	for(i=0;i<6;i++) {
  		printf("this prints 6 times");
  	}
+
+ 	for(i=0;i<3;i++) {
+ 		printf("this prints 6 times");
+ 	}
 }
