@@ -8,4 +8,8 @@ int main(void){
  	for(i=0;i<12;i++) {
  		printf("this prints 12 times");
  	}
+
+ 	for(i=0;i<6;i++) {
+ 		printf("this prints 6 times");
+ 	}
 }
